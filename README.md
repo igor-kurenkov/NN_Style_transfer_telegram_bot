@@ -1,5 +1,5 @@
 # Style transfer telegram bot
-Этот бот для телеграма переносит стиль с одних фотографий на другие.
+Этот телеграм бот стилизует изображения.
 
 ## Режимы работы бота
 
@@ -22,7 +22,7 @@
 
 Изначальное изображение    |  Переносимый стиль        |  Итоговое изображение
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/alresin/Style_transfer_telegram_bot/blob/master/images/corgi.jpg" height="250" width="250">  |  <img src="https://github.com/alresin/Style_transfer_telegram_bot/blob/master/images/style_1.jpg" height="250" width="181">  |   <img src="https://github.com/alresin/Style_transfer_telegram_bot/blob/master/images/corgi_st_1.jpeg" height="250"  width="250">
+<img src="https://github.com/igor-kurenkov/NN_Style_transfer_telegram_bot/blob/master/images/forrest-gump.jpg" height="250" width="250">  |  <img src="https://github.com/alresin/Style_transfer_telegram_bot/blob/master/images/style_1.jpg" height="250" width="181">  |   <img src="https://github.com/igor-kurenkov/NN_Style_transfer_telegram_bot/blob/master/images/SimpleStyletransferresult.jpeg" height="250"  width="250">
 
 ### Стилизация изображений под картины Ван Гога
 В данном режиме бот перерисовывает данное ему изображение так, чтобы оно было похоже по стилю на картины Ван Гога. При этом бот  использует предобученную генеративную сеть из этого проекта: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.
