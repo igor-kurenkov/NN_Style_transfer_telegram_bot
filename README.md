@@ -1,5 +1,6 @@
 # Style transfer telegram bot
 Это итоговый проект в Deep Learning School осень 2022 продвинутый поток часть 1.
+Stepik User ID 351891460
 
 Телеграм-бот для переноса стиля изображения.
 
