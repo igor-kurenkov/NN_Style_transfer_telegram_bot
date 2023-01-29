@@ -53,8 +53,7 @@
 
 Изначальное изображение    |  Итоговое изображение
 :-------------------------:|:-------------------------:
-<img src="https://github.com/alresin/Style_transfer_telegram_bot/blob/master/images/field.jpg" height="250" width="375">  |  <img src="https://github.com/alresin/Style_transfer_telegram_bot/blob/master/images/vangogh_1.jpeg" height="250"  width="250">
-<img src="https://github.com/alresin/Style_transfer_telegram_bot/blob/master/images/nature.jpg" height="250" width="378">  |  <img src="https://github.com/alresin/Style_transfer_telegram_bot/blob/master/images/vangogh_2.jpeg" height="250"  width="250">
+<img src="[https://github.com/alresin/Style_transfer_telegram_bot/blob/master/images/field.jpg](https://github.com/igor-kurenkov/NN_Style_transfer_telegram_bot/blob/master/images/diehard.jpg)" height="250">  |  <img src="https://github.com/igor-kurenkov/NN_Style_transfer_telegram_bot/blob/master/images/Monetresult.jpeg" height="250"  width="250">
 
 
 ## Информация по запуску бота
