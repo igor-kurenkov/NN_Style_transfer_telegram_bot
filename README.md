@@ -11,7 +11,7 @@ Stepik User ID 351891460
 Стилизация реализована на pytorch.
 
 <p>
-<b>Скриншот работы бота:</b>
+##Скриншот работы бота
  
 ![bot](https://user-images.githubusercontent.com/82575007/215345714-5378d0ef-364f-460c-abd9-1d197a94b7c6.png)
 
