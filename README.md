@@ -12,6 +12,7 @@ Stepik User ID 351891460
 
 <p>
 <b>Скриншот работы бота:</b>
+ 
 ![bot](https://user-images.githubusercontent.com/82575007/215345714-5378d0ef-364f-460c-abd9-1d197a94b7c6.png)
 
 ## Режимы работы бота
