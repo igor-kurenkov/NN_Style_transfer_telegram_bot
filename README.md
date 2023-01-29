@@ -1,5 +1,6 @@
 # Style transfer telegram bot
-Это итоговый проект в Deep Learning School осень 2022 продвинутый поток часть 1
+Это итоговый проект в Deep Learning School осень 2022 продвинутый поток часть 1.
+
 Телеграм-бот для переноса стиля изображения
 
 адрес демо-бота https://t.me/DLSstyletransferIKbot
