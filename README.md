@@ -37,7 +37,7 @@
 Пример результатов работы:
 Изначальное изображение    |  Итоговое изображение
 :-------------------------:|:-------------------------:
-<img src="https://github.com/igor-kurenkov/NN_Style_transfer_telegram_bot/blob/master/images/privivka.jpeg" height="250">  |  <img src="(https://github.com/igor-kurenkov/NN_Style_transfer_telegram_bot/blob/master/images/VanGoghgresult.jpeg" height="250"  width="250">
+<img src="https://github.com/igor-kurenkov/NN_Style_transfer_telegram_bot/blob/master/images/privivka.jpeg" height="250">  |  <img src="https://github.com/igor-kurenkov/NN_Style_transfer_telegram_bot/blob/master/images/VanGoghgresult.jpeg" height="250"  width="250">
 
 ### Стилизация изображений под картины Клода Моне
 В этом режиме бот перерисовывает данное ему изображение так, чтобы оно было похоже по стилю на картины Ван Гога. При этом бот  использует предобученную генеративную сеть из этого проекта: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.
