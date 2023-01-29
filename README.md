@@ -1,5 +1,14 @@
 # Style transfer telegram bot
-Этот телеграм бот стилизует изображения.
+Это итоговый проект в Deep Learning School осень 2022 продвинутый поток часть 1
+Телеграм-бот для переноса стиля изображения
+
+адрес демо-бота https://t.me/DLSstyletransferIKbot
+
+Для оценки преподавателем бот задеплоен на Pythonanywhere на бесплатном тарифе, это значит что процессорное время в сутки ограничено. Если бот не реагирует, то возможно суточный ресурс исчерпан. Свяжитесь со мной чтобы я запустил его на резервном аккаунте.
+Стилизация реализована на pytorch.
+
+скриншот работы бота
+![bot](https://user-images.githubusercontent.com/82575007/215345714-5378d0ef-364f-460c-abd9-1d197a94b7c6.png)
 
 ## Режимы работы бота
 
@@ -56,7 +65,7 @@
 <img src="https://github.com/igor-kurenkov/NN_Style_transfer_telegram_bot/blob/master/images/diehard.jpg" height="250">  |  <img src="https://github.com/igor-kurenkov/NN_Style_transfer_telegram_bot/blob/master/images/Monetresult.jpeg" height="250"  width="250">
 
 
-## Информация по запуску бота
+## Установка
 Для запуска данного бота у себя необходимо добавить в основной каталог файл `config.py` со следующим содержанием:
 ```Python
   API_TOKEN = '<YOUR TOKEN>'
